@@ -21,7 +21,7 @@ Begin exploring sentiments in just a few steps:
 4. Run the analysis script.
 
 ```bash
-git clone https://github.com/AdrianGeorgeM/SentimentScope-for-Amazon-Reviews.git
+git clone https://github.com/AdrianGeorgeM/SentimentScope-for-Amazon-Reviewss.git
 cd SentimentScope-for-Amazon-Reviews
 pip install -r requirements.txt
 python sentiment_analysis.py
