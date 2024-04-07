@@ -1,0 +1,9 @@
+Sentiment Analysis Report
+----------------------------
+Sample Reviews and their Sentiment Scores:
+Review: expected better budget tablet ata good price Bought integration Alexa works info Alexa request automatically tablet
+Sentiment: Positive
+
+Review: beautiful display great watching movies playing games powerful price play lots games Amazon free remove microtransactions lots gamesOnly downside need Amazon Prime tablet
+Sentiment: Positive
+
